@@ -46,7 +46,10 @@ A modern, responsive e-commerce shopping cart application built with React, Node
 vibe-ecommerce/
 ├── frontend/ # React frontend application
 │ ├── src/
+
+
 │ │ ├── components/ # React components
+
 │ │ ├── contexts/ # React contexts (Cart, etc.)
 │ │ ├── hooks/ # Custom React hooks
 │ │ ├── lib/ # Utilities and API
