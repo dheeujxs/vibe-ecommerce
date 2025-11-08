@@ -73,7 +73,7 @@ text
 
 1. **Clone the repository**
    ```bash
-  [ git clone https://github.com/yourusername/vibe-ecommerce.git](https://github.com/dheeujxs/vibe-ecommerce.git)
+   https://github.com/dheeujxs/vibe-ecommerce.git
    cd vibe-ecommerce
 Backend Setup
 
